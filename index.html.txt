@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Student Profile</title>
+
+    <style>
+        body{
+            background-color: lightyellow;
+            color: darkblue;
+            text-align: left;
+        }
+
+        h1{
+            color: red;
+            text-align: center;
+        }
+
+        h2{
+            color: green;
+        }
+
+        p{
+            color: black;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My Student Profile</h1>
+
+    <h2>Introduction</h2>
+
+    <p>
+        Hello! My name is <b>G.Jaya Sai Venkatesh</b>.<br>
+        I am studying <strong>B.Tech</strong> in
+        <i>Computer Science Engineering</i> at
+        <u>Dr.RVR NRIIT DTBU </u>.<br><br>
+
+        My favorite subject is <mark>HTML</mark>.<br>
+
+        I am a <small>first year student</small>.<br>
+
+        Earlier I wanted to learn <del>C Language</del>
+        but now I am learning <ins>HTML</ins>.
+    </p>
+
+    <h2>Student Photo</h2>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0M99u3oCu8lij1gU2tVU9GIuG1iuktZPD3qs3kOYbMqEedPQUvj_Vp7b&s=10">
+
+    <h2>Educational Details</h2>
+
+    <ul>
+        <li>College : Dr.RVR NRIIT DTBU</li>
+        <li>Department : Computer Science</li>
+        <li>Year : First Year</li>
+        <li>Roll Number : 24CSE101</li>
+    </ul>
+
+    <h2>My Hobbies</h2>
+
+    <ol>
+        <li>Playing Volleyball</li>
+        <li>Editing videos</li>
+        <li>Listening to Music</li>
+        <li>Watching animes</li>
+    </ol>
+
+    <h2>Favorite Websites</h2>
+
+    <p>
+        <a href="https://www.google.com">Google</a><br>
+        <a href="https://www.youtube.com">YouTube</a><br>
+        <a href="https://www.wikipedia.org">Wikipedia</a>
+    </p>
+
+    <h2>Abbreviations</h2>
+
+    <p>
+        <abbr title="Hyper Text Markup Language">HTML</abbr> is used to create web pages.<br>
+        <abbr title="Cascading Style Sheets">CSS</abbr> is used to style web pages.
+    </p>
+
+    <h2>Bidirectional Text</h2>
+
+    <p>
+        Normal Name :G.Jaya Sai Venkatesh <br>
+
+        Reverse Name :
+        <bdo dir="rtl">G.Jaya Sai Venkatesh</bdo>
+    </p>
+
+    <h2>Mathematical Formula</h2>
+
+    <p>
+        Water Formula : H<sub>2</sub>O<br><br>
+
+        Equation :
+        x<sup>2</sup> + y<sup>2</sup>
+    </p>
+
+    <h2>Thank You</h2>
+
+    <p style="text-align:center;">
+        Thank You for Visiting My Student Profile.
+    </p>
+
+</body>
+</html>
